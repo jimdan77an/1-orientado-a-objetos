@@ -2,12 +2,13 @@
 {
     internal class Program
     {
-       public static object console;
+        public static object console;
 
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Busan Boy");
-           System.Console.ReadLine();
-        
+            System.Console.WriteLine("Busan jim");
+            System.Console.ReadLine();
+
+        }
     }
 }
